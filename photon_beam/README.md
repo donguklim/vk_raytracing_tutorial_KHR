@@ -51,15 +51,6 @@ For more detailed background of the techinques used, you may check the reference
 
 https://github.com/donguklim/DirectX12PhotonBeam
 
-There is DirectX 12 version of the implementation, which is made later than this version.
-
-DirectX 12 version is more upgraded than this version. It has new features light motion and light variation.
-
-Unlike Vulkan version, which uses a fixed light simulation for every frame, DX12 implementation performs light simulation for each frame.
-
-
-Vulkan version may also implement the upgraded light motion and light variagion feature in the future, when I have some time.
-
 
 ## References
 
